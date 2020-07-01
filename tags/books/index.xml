@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on Laura&#39;s Site</title>
+    <link>https://laurauzcategui.github.io/tags/books/</link>
+    <description>Recent content in Books on Laura&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jun 2020 17:51:03 +0100</lastBuildDate>
+    
+	<atom:link href="https://laurauzcategui.github.io/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The shadow of the Wind</title>
+      <link>https://laurauzcategui.github.io/blog/books/shadow_of_wind/</link>
+      <pubDate>Tue, 30 Jun 2020 17:51:03 +0100</pubDate>
+      
+      <guid>https://laurauzcategui.github.io/blog/books/shadow_of_wind/</guid>
+      <description>Currently reading this book by Carlos Ruiz Zafon.
+I will post the review soon.</description>
+    </item>
+    
+  </channel>
+</rss>

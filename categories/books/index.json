@@ -1,0 +1,19 @@
+[
+    {
+        "ref": "https://laurauzcategui.github.io/blog/books/shadow_of_wind/",
+        "title": "The shadow of the Wind",
+        "section": "blog",
+        "tags": ["Gothic fiction","Books","Mystery"],
+        "date" : "2020.06.30",
+        "body": "Currently reading this book by Carlos Ruiz Zafon.\nI will post the review soon.\n"
+    }
+,
+    {
+        "ref": "https://laurauzcategui.github.io/blog/books/index.json",
+        "title": "Books",
+        "section": "blog",
+        "tags": null,
+        "date" : "2020.06.30",
+        "body": "On this section you will see posts related to books.\n"
+    }
+]

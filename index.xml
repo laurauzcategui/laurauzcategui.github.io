@@ -6,10 +6,20 @@
     <description>Recent content on Laura&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2020 15:19:18 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2020 16:32:58 +0100</lastBuildDate>
     
 	<atom:link href="https://laurauzcategui.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Types of Machine Learning</title>
+      <link>https://laurauzcategui.github.io/blog/machine-learning/ml_types/</link>
+      <pubDate>Thu, 02 Jul 2020 16:32:58 +0100</pubDate>
+      
+      <guid>https://laurauzcategui.github.io/blog/machine-learning/ml_types/</guid>
+      <description>It&amp;rsquo;s been a while since I wrote my first post on What is Machine Learning (ML) and How Programming paradigms have changed over time and describing some use cases/applications. This time, I am sharing how Machine Learning and AI can be seen from different perspectives, specifically covering the following two areas:
+ How much human interaction is involved in the training process of different ML algorithms. How the training is performed.</description>
+    </item>
     
     <item>
       <title>The shadow of the Wind</title>

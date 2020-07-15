@@ -3,12 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://laurauzcategui.github.io/blog/</loc>
-    <lastmod>2020-07-01T15:19:18+01:00</lastmod>
+    <loc>https://laurauzcategui.github.io/tags/ai/</loc>
+    <lastmod>2020-07-02T16:32:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://laurauzcategui.github.io/categories/</loc>
+    <lastmod>2020-07-02T16:32:58+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://laurauzcategui.github.io/</loc>
+    <lastmod>2020-07-02T16:32:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://laurauzcategui.github.io/tags/machine-learning/</loc>
+    <lastmod>2020-07-02T16:32:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://laurauzcategui.github.io/categories/machine-learning/</loc>
+    <lastmod>2020-07-02T16:32:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://laurauzcategui.github.io/tags/</loc>
+    <lastmod>2020-07-02T16:32:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://laurauzcategui.github.io/blog/machine-learning/ml_types/</loc>
+    <lastmod>2020-07-02T16:32:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://laurauzcategui.github.io/blog/</loc>
     <lastmod>2020-07-01T15:19:18+01:00</lastmod>
   </url>
   
@@ -23,22 +53,12 @@
   </url>
   
   <url>
-    <loc>https://laurauzcategui.github.io/categories/</loc>
-    <lastmod>2020-06-30T17:51:03+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://laurauzcategui.github.io/tags/gothic-fiction/</loc>
     <lastmod>2020-06-30T17:51:03+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://laurauzcategui.github.io/tags/mystery/</loc>
-    <lastmod>2020-06-30T17:51:03+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://laurauzcategui.github.io/tags/</loc>
     <lastmod>2020-06-30T17:51:03+01:00</lastmod>
   </url>
   
@@ -55,21 +75,6 @@
   <url>
     <loc>https://laurauzcategui.github.io/blog/machine-learning/</loc>
     <lastmod>2020-06-30T16:55:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://laurauzcategui.github.io/categories/machine-learning/</loc>
-    <lastmod>2020-06-30T16:55:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://laurauzcategui.github.io/tags/ai/</loc>
-    <lastmod>2019-12-30T16:55:37+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://laurauzcategui.github.io/tags/machine-learning/</loc>
-    <lastmod>2019-12-30T16:55:37+01:00</lastmod>
   </url>
   
   <url>
